@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>Android架构概述</title>
+      <link href="/2022/06/09/Android_Architectrue/"/>
+      <url>/2022/06/09/Android_Architectrue/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/post_img/android-stack.png" alt="android-stack"></p><p>安卓架构图</p><p>安卓作为智能手机领域最大的操作系统之一，有着复杂的架构和独到的设计思想，本文结合自己的理解简要介绍安卓架构，不足之处欢迎指出</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Top Decoration Post</title>
+      <link href="/2022/06/09/Top/"/>
+      <url>/2022/06/09/Top/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/post_bkg.jpg" alt="post_bkg"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/06/09/hello-world/"/>
       <url>/2022/06/09/hello-world/</url>
